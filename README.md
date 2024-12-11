@@ -1,4 +1,5 @@
 # NewsAPI
+We're getting a large chunk of our information from https://www.newscatcherapi.com/!
 
 Train Sentiment Analysis: Dutch vs. French Railway Markets
 
